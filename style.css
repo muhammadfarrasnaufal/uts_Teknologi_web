@@ -88,7 +88,7 @@ h4 {
 }
 
 .site-nav__brand::before {
-  content: "☠ ";
+  content: " ";
   color: #f5ebd6;
   font-size: 1rem;
 }
@@ -169,7 +169,7 @@ h4 {
 .hero__eyebrow::before {
   display: inline-block;
   margin-right: 9px;
-  content: "⚓";
+  content: "";
   animation: anchor-sway 3s ease-in-out infinite;
 }
 
